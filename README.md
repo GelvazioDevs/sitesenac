@@ -2,7 +2,7 @@
 
 ### 📄 **Apresentação Pessoal**
 
-> **Nome:** \[Seu nome completo]
+> **Nome:** \[Seu nome completo.]
 > **Idade:** \[Sua idade]
 > **Cidade/Estado:** \[Sua cidade e estado]
 > **Contato:** \[Seu telefone / WhatsApp]
